@@ -83,10 +83,10 @@ class ApplicationView:
         self.query_entry.config(state="disabled")
 
     def apply_query(self):
-        pass  # We will implement this method later
+        pass
 
     def show_schema(self):
-        pass  # We will implement this method later
+        pass
 
     def convert_to_json(self):
-        pass  # We will implement this method later
+        pass
